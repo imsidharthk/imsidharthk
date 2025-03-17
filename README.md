@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @imsidharthk
-- 👀 I’m interested in data science , machine learninng 
-- 🌱 I’m currently learning C.N.N,deep learning
-- 💞️ I’m looking to collaborate on breast cancer detection using cnn and deep learning
-- 📫 How to reach me comtact me on my email imsidharthk@gmail.com
+Hi there, I'm Sidharth! 👋
+I'm a tech enthusiast passionate about data analytics, machine learning, and web development. I enjoy working on projects that involve data-driven decision-making, image processing, and full-stack development.
 
-<!---
-imsidharthk/imsidharthk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 What I do:
+
+Data Analytics: Proficient in Python, SQL, Power BI, and Tableau for data visualization and insights.
+Machine Learning: Experience in data preprocessing, clustering, and model building.
+Web Development: Skilled in Django, Flask, React, HTML, CSS, and Bootstrap for building dynamic web applications.
+Image Processing: Worked on image compression, noise reduction, sharpening, and grayscale conversion using Python.
+📌 Projects I'm working on:
+
+A React + Python image compression app using K-Means clustering.
+A Flask-based image processing tool with SNR & PSNR evaluation.
+📈 Certifications:
+
+Certified Data Associate – NASSCOM
+Data Analytics with Python – NPTEL
